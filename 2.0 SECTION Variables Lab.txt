@@ -1,0 +1,23 @@
+"use strict" 
+
+let maxwell = {
+	name: "Maxwell Wright",
+	phone: "(0191) 719 6495)",
+	email: "curabitur.egestas.nunc@nonummyac.co.uk",
+};
+
+let raja = {
+	name: "Raja Villarreal",
+	phone: "0866 398 2895",
+	email: "posuere.vulputate@sed.com",
+};
+
+let helen = {
+	name: "Helen Richards",
+	phone: "0800 1111",
+	email: "libero@convallis.edu",
+};
+
+console.log(maxwell.name + " / " + maxwell.phone + " / " + maxwell.email)
+console.log(helen.name + " / " + helen.phone + " / " + helen.email)
+
